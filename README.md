@@ -2,6 +2,6 @@
 
 ### Olá, meu nome é João Henrique!
 
-![Meu Badge](https://img.shields.io/static/v1?label=Overview&message=Seu%20Nome&color=f8efd4&style=for-the-badge&logo=GitHub)
+![Meu Badge](https://img.shields.io/static/v1?label=Overview&message=João%20Henrique&color=f8efd4&style=for-the-badge&logo=GitHub)
 
 <p>Estudo Ciência da Computação na CESAR School, </br> em busca de uma carreira em dados e fintech</p>
