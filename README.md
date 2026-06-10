@@ -4,4 +4,4 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=JoãoHenrique&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Estudo na Ciência da Computação na CESAR School<br/> Em busca de uma carreira em dados e fintech</p>
+<p>Estudo Ciência da Computação na CESAR School, </br> em busca de uma carreira em dados e fintech</p>
