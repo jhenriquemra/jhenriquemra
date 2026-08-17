@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00b4d8&height=200&section=header&text=Hi,%20I'm%20João%20Henrique!&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CESAR%20School%20Student%20|%20Future%20Data/ML%20&%20Fintech&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00b4d8&height=200&section=header&text=Hi,%20I'm%20João%20Henrique!&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
 
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=CESAR+School+Student;Exploring+Data+Science+%26+Machine+Learning;Interested+in+Fintech+%F0%9F%92%B0;Learning+something+new+every+day+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile+%F0%9F%91%8B" />
 </p>
 
 <p align="center">
@@ -15,16 +15,15 @@
   <a href="mailto:jhenriquemra@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/jhenriquemra">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 ---
 
 ### 👨‍💻 About me
 
-CESAR School student, currently learning Python and C. Heading toward data & Machine Learning, with an eye on fintech.
+CESAR School student, currently learning Python and C. Heading toward **data & Machine Learning**, with an eye on **fintech**.
+
+---
 
 ### 🛠️ Tech Stack & Tools
 
@@ -34,7 +33,7 @@ CESAR School student, currently learning Python and C. Heading toward data & Mac
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-2496ED?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
 ---
@@ -47,7 +46,7 @@ CESAR School student, currently learning Python and C. Heading toward data & Mac
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhenriquemra&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=jhenriquemra&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
