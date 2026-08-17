@@ -21,7 +21,7 @@
 
 ### 👨‍💻 About me
 
-CESAR School student, currently learning Python and C. Heading toward **data & Machine Learning**, with an eye on **fintech**.
+CESAR School student, currently learning Python and C. Heading toward data & Machine Learning, with an eye on fintech.
 
 ---
 
@@ -39,15 +39,6 @@ CESAR School student, currently learning Python and C. Heading toward **data & M
 ---
 
 ### 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jhenriquemra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhenriquemra&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jhenriquemra&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhenriquemra&theme=tokyo-night&hide_border=true" />
